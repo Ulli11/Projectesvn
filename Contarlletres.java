@@ -1,9 +1,9 @@
-
+ 
 public class Contarlletres {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Hola
+		//Editar comentari projecte1
 		//Comentari del 7
 		String frase = "Hola";
 		
